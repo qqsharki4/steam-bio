@@ -1,4 +1,4 @@
-Format NAME - SETDATE
+Format: NAME - SETDATE
 DWA-137 #хэштег - IDK
 DWA-137 #SHIFT - IDK
 not ego - IDK
@@ -10,3 +10,4 @@ DWA-137 #скины_за_кейсы - IDK
 DWA-137 скинызагейство - IDK
 DWA-137 лиза отлиза - 24.04.2024
 DWA-137 Celeron430 - 30.04.2024
+DWA-172 #LEVELUP - 15.12.2024
